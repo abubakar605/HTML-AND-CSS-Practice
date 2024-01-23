@@ -1,0 +1,19 @@
+h1 {
+    background-color: hsl(210.12deg 100% 50%);
+    color: hsl(240deg 100% 47.84%);
+}
+
+#one {
+    color: hsl(267.83deg 35.03% 61.37%);
+    font-size: larger;
+}
+
+#two {
+    font-size: larger;
+    background-color: hsl(59.76deg 100% 50.2%);
+    color: hsl(38.81deg 79.45% 49.61%);
+}
+#three {
+    font-size: larger;
+    background-color:hsl(120deg 30.43% 77.45%);
+}
